@@ -354,10 +354,10 @@ span, footer {  line-height: 1.8; }
 .navbar-toggler { display: none; }
 
 .tm-nav {
-    position: fixed;
+       position: fixed;
     top: 0;
     left: -1px;
-    width: 50%;
+    width: 75%;
     z-index: 1000;
 }
 
@@ -365,6 +365,9 @@ span, footer {  line-height: 1.8; }
     background-color: #444;
     display: flex;
     justify-content: space-around;
+}
+.tm-nav a {
+      padding: 10px;
 }
 
 .nav-item { list-style: none; }

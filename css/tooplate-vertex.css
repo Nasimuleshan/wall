@@ -531,14 +531,14 @@ figure.effect-goliath img {
 }
 
 figure.effect-goliath h2{
-	       position: absolute;
+	          position: absolute;
     bottom: -5px;
     left: 0;
     display: inline-grid;
     padding: 10px 10px;
     text-align: center;
-    width: 230px;
-    color: #cdd1d6;
+    width: 240px;
+    color: #eff3fa;
     /* color: #99CC99; */
 	
 }

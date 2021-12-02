@@ -523,10 +523,11 @@ figure.effect-goliath h2 {
 }
 
 figure.effect-goliath img {
-	    -webkit-backface-visibility: hidden;
+	        /*-webkit-backface-visibility: hidden;*/
     backface-visibility: hidden;
-    opacity: 1;
-    height: 200px;
+    /* opacity: .8; */
+    height: 240px;
+    width: 100%;
     /* padding: 10px; */
 }
 
